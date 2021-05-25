@@ -1,0 +1,115 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.diceGrid{
+  margin-left: 15%;
+  width: 70%;
+  padding-top: 30px;
+}
+.diceGrid1{
+  margin-left: 5%;
+  width: 90%;
+}
+.diceGrid2{
+  margin-left: 20px;
+  width: 60%;
+}
+.x-home-container{
+  background-image: url("/img/head_background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.x-font1{
+  font-size: 30px;
+  color: white;
+  font-family: initial;
+  font-weight: 500;
+}
+.x-font2{
+  font-size: 35px;
+  color: #a9e26f;
+  font-family: initial;
+  font-weight: 600;
+}
+.x-font3{
+  font-size: 35px;
+  color: white;
+  font-family: initial;
+  font-weight: 600;
+}
+.x-font4{
+  font-size: 15px;
+  color: white;
+  font-family: initial;
+  font-weight: 500;
+}
+.x-font5{
+  font-size: 40px;
+  color: #4ccffd;
+  font-family: initial;
+  font-weight: 500;
+}
+.x-font6{
+  font-size: 45px;
+  color: white;
+  font-family: initial;
+  font-weight: 600;
+}
+.x-font7{
+  font-size: 20px;
+  color: white;
+  font-family: initial;
+}
+.x-subscribe-button{
+  border: 3px solid #e815a7;
+  border-radius: 35px;
+  background-color: #a9e26f;
+  color: #010231;
+  font-size: 20px;
+  font-family: initial;
+  padding: 3%;
+  font-weight: 600;
+}
+.x-intro-container{
+  background-color: #01022e;
+}
+.x-join-telegram-button{
+  border: 3px solid #1696b0;
+  border-radius: 40px;
+  background-color: #a9e26f;
+  color: #010231;
+  font-size: 20px;
+  font-family: initial;
+  padding: 2%;
+  font-weight: 600;
+  width: 210px;
+}
+.x-collectible-content{
+  padding: 1%;
+}
+.x-subscribe-input{
+  width: 100%;
+  color: black;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  background-color: #4ccffd;
+  height: 40px;
+  border-radius: 10px;
+  padding: 2%;
+}
